@@ -1,3 +1,6 @@
+## Fundamental Booster 
+## Objective 
+Build a Python app that collects, processes, and shows a user's personal information. This project will show you understand basic Python tools like print(), input(), variables, data types, operators, and functions like type() and id().
 ## 📋 Requirements Covered
 
 ### User Input
